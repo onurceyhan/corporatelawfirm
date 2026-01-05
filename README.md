@@ -1,16 +1,21 @@
-# Lexington Partners - Corporate Law Firm Website
+# Corporate Law Firm Website
 
 A modern, professional law firm website built with Vue 3 and Vite, featuring a sophisticated design with smooth animations and full responsive support.
 
 [![Built with Vue 3](https://img.shields.io/badge/Vue-3.x-42b883?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![Powered by Vite](https://img.shields.io/badge/Vite-7.x-646cff?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://corporatelawfirm.vercel.app)
+
+## 🌐 Live Demo
+
+### **🚀 [https://corporatelawfirm.vercel.app](https://corporatelawfirm.vercel.app)**
+
+> Deployed on Vercel with automatic CI/CD from GitHub
 
 ## 🎯 Overview
 
 This project showcases a complete law firm website with a focus on modern web design principles, user experience, and performance optimization. Built using Vue 3's Composition API and powered by Vite for lightning-fast development and build times.
-
-**[Live Demo](#)** | **[Documentation](#)**
 
 ## ✨ Features
 
@@ -57,7 +62,7 @@ corporatelawfirm/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/corporatelawfirm.git
+git clone https://github.com/onurceyhan/corporatelawfirm.git
 
 # Navigate to project directory
 cd corporatelawfirm
@@ -80,6 +85,23 @@ npm run build
 # Preview production build locally
 npm run preview
 ```
+
+### Deploy to Vercel
+
+This project is configured for easy deployment on Vercel:
+
+```bash
+# Install Vercel CLI globally
+npm install -g vercel
+
+# Deploy to Vercel
+vercel
+
+# Deploy to production
+vercel --prod
+```
+
+Alternatively, you can connect your GitHub repository to Vercel for automatic deployments on every push to the main branch.
 
 ## 📦 Component Overview
 
@@ -223,10 +245,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Onur Ceyhan**
+- 🔗 GitHub: [@onurceyhan](https://github.com/onurceyhan)
+- 💼 LinkedIn: [onur-ceyhan](https://www.linkedin.com/in/onur-ceyhan/)
+- 📁 Project Repository: [corporatelawfirm](https://github.com/onurceyhan/corporatelawfirm)
 
 ## 🙏 Acknowledgments
 
@@ -235,10 +257,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons and fonts from Google Fonts
 - Vue.js and Vite communities
 
-## 📞 Support
-
-For support, email support@lexingtonpartners.com or open an issue in the GitHub repository.
-
 ---
 
 <p align="center">Made with ❤️ using Vue 3 & Vite</p>
+<p align="center">
+  <a href="https://corporatelawfirm.vercel.app">Live Demo</a> • 
+  <a href="https://github.com/onurceyhan/corporatelawfirm">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/onur-ceyhan/">LinkedIn</a>
+</p>
